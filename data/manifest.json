@@ -1,5 +1,113 @@
 [
-      {
+     {
+    "date": "2026-05-31",
+    "EN": {
+      "title": "The Complete Sacrifice"
+    },
+    "TA": {
+      "title": "முழுமையான பலி"
+    }
+  },
+  {
+    "date": "2026-05-30",
+    "EN": {
+      "title": "The Number Seventeen"
+    },
+    "TA": {
+      "title": "பதினேழு என்ற எண்"
+    }
+  },
+  {
+    "date": "2026-05-29",
+    "EN": {
+      "title": "Peace Offerings - 2"
+    },
+    "TA": {
+      "title": "சமாதான பலிகள் - 2"
+    }
+  },
+  {
+    "date": "2026-05-28",
+    "EN": {
+      "title": "Peace Offerings"
+    },
+    "TA": {
+      "title": "சமாதான பலிகள்"
+    }
+  },
+  {
+    "date": "2026-05-27",
+    "EN": {
+      "title": "Only One"
+    },
+    "TA": {
+      "title": "ஒரே ஒரு"
+    }
+  },
+  {
+    "date": "2026-05-26",
+    "EN": {
+      "title": "Sin Offering"
+    },
+    "TA": {
+      "title": "பாவநிவாரண பலி"
+    }
+  },
+  {
+    "date": "2026-05-25",
+    "EN": {
+      "title": "The Number 36"
+    },
+    "TA": {
+      "title": "எண் 36"
+    }
+  },
+  {
+    "date": "2026-05-24",
+    "EN": {
+      "title": "Three Ages"
+    },
+    "TA": {
+      "title": "மூன்று காலங்கள்"
+    }
+  },
+  {
+    "date": "2026-05-23",
+    "EN": {
+      "title": "One Year Old Lamb"
+    },
+    "TA": {
+      "title": "ஒரு வயது ஆட்டுக்குட்டி"
+    }
+  },
+  {
+    "date": "2026-05-22",
+    "EN": {
+      "title": "The Ram"
+    },
+    "TA": {
+      "title": "ஆட்டுக்கடா"
+    }
+  },
+  {
+    "date": "2026-05-21",
+    "EN": {
+      "title": "The Young Bull"
+    },
+    "TA": {
+      "title": "இளம் காளை"
+    }
+  },
+  {
+    "date": "2026-05-20",
+    "EN": {
+      "title": "12 Spoons & 120 Shekels - 2"
+    },
+    "TA": {
+      "title": "12 கரண்டிகள் & 120 சேக்கல்கள் - 2"
+    }
+  },
+  {
     "date": "2026-05-19",
     "EN": {
       "title": "12 Spoons & 120 Shekels"
