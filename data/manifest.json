@@ -1,4 +1,265 @@
 [
+{
+    "date": "2026-08-31",
+    "EN": {
+      "title": "A Prophet Like Moses"
+    },
+    "TA": {
+      "title": "மோசேயைப் போன்ற ஒரு தீர்க்கதரிசி"
+    }
+  },
+  {
+    "date": "2026-08-30",
+    "EN": {
+      "title": "The Plague"
+    },
+    "TA": {
+      "title": "வாதை"
+    }
+  },
+  {
+    "date": "2026-08-29",
+    "EN": {
+      "title": "The Earth & the Fire"
+    },
+    "TA": {
+      "title": "பூமியும் அக்கினியும்"
+    }
+  },
+  {
+    "date": "2026-08-28",
+    "EN": {
+      "title": "Three Judgements"
+    },
+    "TA": {
+      "title": "மூன்று நியாயத்தீர்ப்புகள்"
+    }
+  },
+  {
+    "date": "2026-08-27",
+    "EN": {
+      "title": "Rebellion in the Camp - 6"
+    },
+    "TA": {
+      "title": "பாளையத்தில் கலகம் - 6"
+    }
+  },
+  {
+    "date": "2026-08-26",
+    "EN": {
+      "title": "Rebellion in the Camp - 6"
+    },
+    "TA": {
+      "title": "பாளயத்தில் கலகம் – 6"
+    }
+  },
+  {
+    "date": "2026-08-25",
+    "EN": {
+      "title": "Rebellion in the Camp - 5"
+    },
+    "TA": {
+      "title": "பாளையத்தில் கலகம் – 5"
+    }
+  },
+  {
+    "date": "2026-08-24",
+    "EN": {
+      "title": "Rebellion in the Camp - 4"
+    },
+    "TA": {
+      "title": "பாளையத்தில் கலகம் - 4"
+    }
+  },
+  {
+    "date": "2026-08-23",
+    "EN": {
+      "title": "Rebellion in the Camp - 3"
+    },
+    "TA": {
+      "title": "பாளயத்தில் கலகம் - 3"
+    }
+  },
+  {
+    "date": "2026-08-22",
+    "EN": {
+      "title": "Rebellion in the Camp - 2"
+    },
+    "TA": {
+      "title": "பாளையத்தில் கலகம் - 2"
+    }
+  },
+  {
+    "date": "2026-08-21",
+    "EN": {
+      "title": "Rebellion in the Camp"
+    },
+    "TA": {
+      "title": "பாளயத்தில் ஒரு கலகம்"
+    }
+  },
+  {
+    "date": "2026-08-20",
+    "EN": {
+      "title": "Tassels -3"
+    },
+    "TA": {
+      "title": "தொங்கல்கள்-3"
+    }
+  },
+  {
+    "date": "2026-08-19",
+    "EN": {
+      "title": "Tassels -2"
+    },
+    "TA": {
+      "title": "தொங்கல்கள்-2"
+    }
+  },
+  {
+    "date": "2026-08-17",
+    "EN": {
+      "title": "Remember & Obey"
+    },
+    "TA": {
+      "title": "தொங்கல்கள்-1"
+    }
+  },
+  {
+    "date": "2026-08-15",
+    "EN": {
+      "title": "Intentional & Unintentional Sin - 3"
+    },
+    "TA": {
+      "title": "வேண்டுமென்றே செய்த பாவமும் அறியாமல் செய்த பாவமும் - 3"
+    }
+  },
+  {
+    "date": "2026-08-14",
+    "EN": {
+      "title": "Intentional & Unintentional Sin - 2"
+    },
+    "TA": {
+      "title": "வேண்டுமென்றே செய்த பாவமும் அறியாமல் செய்த பாவமும் - 2"
+    }
+  },
+  {
+    "date": "2026-08-13",
+    "EN": {
+      "title": "Intentional & Unintentional Sin - 1"
+    },
+    "TA": {
+      "title": "வேண்டுமென்றே செய்த பாவமும் அறியாமல் செய்த பாவமும் - 1"
+    }
+  },
+  {
+    "date": "2026-08-12",
+    "EN": {
+      "title": "The Sacrifice of the New Creation - 6"
+    },
+    "TA": {
+      "title": "புதிய சிருஷ்டியின் பலி - 6"
+    }
+  },
+  {
+    "date": "2026-08-11",
+    "EN": {
+      "title": "The Sacrifice of the New Creation - 5"
+    },
+    "TA": {
+      "title": "புதிய சிருஷ்டியின் பலி - 5"
+    }
+  },
+  {
+    "date": "2026-08-10",
+    "EN": {
+      "title": "The Sacrifice of the New Creation - 4"
+    },
+    "TA": {
+      "title": "புதிய சிருஷ்டியின் பலி - 4"
+    }
+  },
+  {
+    "date": "2026-08-09",
+    "EN": {
+      "title": "The Sacrifice of the New Creation - 3"
+    },
+    "TA": {
+      "title": "புதிய சிருஷ்டியின் பலி - 3"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "EN": {
+      "title": "The Sacrifice of the New Creation - 2"
+    },
+    "TA": {
+      "title": "புதிய சிருஷ்டியின் பலி - 2"
+    }
+  },
+  {
+    "date": "2026-08-07",
+    "EN": {
+      "title": "The Sacrifice of the New Creation"
+    },
+    "TA": {
+      "title": "புதிய சிருஷ்டியின் பலி"
+    }
+  },
+  {
+    "date": "2026-08-06",
+    "EN": {
+      "title": "The Offerings"
+    },
+    "TA": {
+      "title": "காணிக்கைகள்"
+    }
+  },
+  {
+    "date": "2026-08-05",
+    "EN": {
+      "title": "The First & The Best"
+    },
+    "TA": {
+      "title": "முதலானதும் சிறந்ததுமானவை"
+    }
+  },
+  {
+    "date": "2026-08-04",
+    "EN": {
+      "title": "Hope After Judgement"
+    },
+    "TA": {
+      "title": "நியாயத்தீர்ப்புக்குப் பின் நம்பிக்கை"
+    }
+  },
+  {
+    "date": "2026-08-03",
+    "EN": {
+      "title": "Obedience Is Greater Than Enthusiasm"
+    },
+    "TA": {
+      "title": "ஆர்வத்தை விட கீழ்ப்படிதலே மேலானது"
+    }
+  },
+  {
+    "date": "2026-08-02",
+    "EN": {
+      "title": "Battle Without God"
+    },
+    "TA": {
+      "title": "தேவன் இல்லாத யுத்தம்"
+    }
+  },
+  {
+    "date": "2026-08-01",
+    "EN": {
+      "title": "Do not make Yahweh your enemy"
+    },
+    "TA": {
+      "title": "யாவே தேவனை உங்கள் எதிரியாக மாற்றிக்கொள்ளாதீர்கள்"
+    }
+  },
       {
     "date": "2026-07-31",
     "EN": {
